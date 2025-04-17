@@ -17,7 +17,7 @@ crs-for-sparse-matrices/
 │   ├── matrix_CSR.txt          # Matrix stored in CSR format
 │   ├── write_matrix.txt        # Output: matrix as .txt
 │   ├── write_CSR.txt           # Output: CSR matrix saved to .txt
-│   └── write.txt               # Another CSR write output (same as above?)
+│   └── write.txt               # Another CSR write output
 ├── main.cpp
 └── README.md
 ```
